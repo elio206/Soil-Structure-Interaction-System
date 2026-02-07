@@ -1,4 +1,4 @@
-# Soil-Structure-Interaction-System
+# Soil-Foundation-Structure-Interaction-System
 Dynamic numerical modeling of SFSI systems and seismic performance analysis.
 
 # Introduction
